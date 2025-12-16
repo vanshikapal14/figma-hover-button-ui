@@ -14,7 +14,7 @@ feedback suitable for modern mobile applications.
 - Figma
 
 ## Preview
-![Hover Button UI](designs/hover-button-design.png)
+![Hover Button UI](hover-button-design.png)
 
 ## Figma File
 Link to Figma design: https://www.figma.com/design/dyS9LYXpIdv9rHxf8l8WD3/Practice-New-Designs?node-id=8-57&t=s2P0ZZz2IIsXFs05-1
